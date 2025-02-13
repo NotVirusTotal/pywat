@@ -15,8 +15,6 @@ This project is licensed under the Custom License for PyWAT. See the [LICENSE](L
 
 ### Key Restrictions:
 
-- No modification or redistribution of the Software or modified versions.
-- Redistribution of modified versions is strictly prohibited to avoid the introduction of malware.
 - The Software is provided "as is" with no warranty of any kind.
 
 ## GitHub Repository
